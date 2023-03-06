@@ -33,6 +33,9 @@
 ExportedObj/
 .consulo/
 *.csproj
+
+# JetBrains Rider Cache
+.idea/
 *.unityproj
 *.sln
 *.suo
